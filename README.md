@@ -37,4 +37,5 @@ Coding Instructor at <a href="https://www.ischooltech.com/" target="_blank"><b>I
 **📫 Reach me at:**<br>
 
 [![Linkedin: Sabreen Essam](https://img.shields.io/badge/-Sabreen%20Essam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sabreen-essam-121335229/)](https://www.linkedin.com/in/sabreen-essam-121335229/)
+[![Gmail: Sabreen Essam](https://img.shields.io/badge/-Sabreen%20Essam-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SabreenEssam2025@gmail.com)](mailto:SabreenEssam2025@gmail.com)
 
