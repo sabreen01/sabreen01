@@ -2,7 +2,7 @@
 
 
 <p align="center">
-I am a software engineer from Egypt : Fresh graduated from faculty of computers and information, department of computer science.
+My name is Sabreen Essam, I am a software engineern from Egypt : Fresh graduated from faculty of computers and information, department of computer science.
 </p>
 <p align="center">
 Fascinated about infinite space. Occupy Mars! :rocket:
@@ -22,7 +22,7 @@ Coding Instructor at <a href="https://www.ischooltech.com/" target="_blank"><b>I
 **💬 Ask me about:**
 
 <code><a href="https:///" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></a></code>
-<code><a href="https:///" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg"></a></code>
+<code><a href="https:///" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></a></code>
 <code><a href="https:///" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-ar21.svg"></a></code>
 <code><a href="https:///" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg"></a></code>
 <code><a href="https:///" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></a></code>
@@ -30,7 +30,7 @@ Coding Instructor at <a href="https://www.ischooltech.com/" target="_blank"><b>I
 
 **🌱 Looking forward to learn:**
 <code><a href="https:///" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></a></code>
-<code><a href="https:///" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/getbootstrap/"></a></code>
+<code><a href="https:///" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></a></code>
 <code><a href="https:///" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></a></code>
 <div align="center">
 
