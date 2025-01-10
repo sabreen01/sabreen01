@@ -25,7 +25,6 @@ Coding Instructor at <a href="https://www.ischooltech.com/" target="_blank"><b>I
 <code><a href="https:///" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a></code>
 <code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
 <code><a href="https://flask.palletsprojects.com/en/1.1.x/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></a></code>
-<code><a href="https://go.dev/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg"></a></code>
 
 **🌱 Looking forward to learn:**
 
